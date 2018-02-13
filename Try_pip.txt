@@ -1,0 +1,14 @@
+pip install Django=1=.11.9
+    This installed Django framework package through my terminal
+pip list
+    This command showed all packages that have been installed
+pip install Django==1.11.9
+    Showed that the package was already installed
+pip freeze
+    pip list shows installed packages including editables, pip freeze outputs installed packages in requirements format
+pip uninstall Django
+    gives option y/n to uninstall the package
+pip show Django 
+    showed the version and details of Django installed
+pip search Flask
+    brought up information and command on the Flask download
